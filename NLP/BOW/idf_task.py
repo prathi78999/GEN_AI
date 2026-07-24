@@ -7,3 +7,4 @@ print("TF-IDF Matrix:")
 print(tfidf_matrix)#sparse matrix
 print("\n Tf-IDF values in Matrix Form:")
 print(tfidf_matrix.toarray())#dense matrix
+#---
